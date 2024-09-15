@@ -6,7 +6,7 @@
 
 - Muestra la ubicación del archivo ejecutable en una ventana gráfica.
 - Utiliza componentes Swing (`JFrame`, `JPanel`, `JLabel`) para la interfaz gráfica.
-- Utilizado [Eclipse IDE] para la exportación de JAR
+- Utilizado [Eclipse IDE] para la exportación de JAR.
 
 ### Clonar el Repositorio
 
